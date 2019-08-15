@@ -23,6 +23,12 @@ As seen below, the application will indicate whether the QR Code is authentic or
 
 ![Alt Text](https://media.giphy.com/media/TifymW8ZCUUT7o8opq/giphy.gif)
 
+# Pie Chart
+
+When deployed as a webservice, the link will lead to a pie chart that illustrates the attendance turnout. It can be accessed from any device with an internet connection, so it enables easy tracking of the turnout.
+
+![piechart](https://gitlab.com/ktiwari9/event-management-system/uploads/39fd6e13d949b0ab794e93327de17f2c/piechart.PNG)
+
 
 # Contributing
 
